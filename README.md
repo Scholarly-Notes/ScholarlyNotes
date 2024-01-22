@@ -1,2 +1,0 @@
-# ScholarlyNotes
-ScholarlyNotes Website.
